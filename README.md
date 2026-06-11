@@ -9,7 +9,7 @@ I'm Farhan, a pharmacy student learning Python.
 
 ## Projects
 - Square Calculator
-- Python Learning Journey
+- Cube Calculator
 
 ## Goal
 Build useful automation tools and improve my programming skills every day.
